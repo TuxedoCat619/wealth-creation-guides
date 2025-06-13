@@ -1,9 +1,12 @@
-# Wealth Books List
+# Wealth Books List 
+
+A core collection of books to anchor ongoing discussions and projects on wealth creation, 
+personal growth, and financial success.
 
 1. The Power of Your Subconscious Mind – Joseph Murphy
 2. Think and Grow Rich – Napoleon Hill
 3. The Richest Man in Babylon – George S. Clason
-4. As a Man Thinketh – James Allen
+4. Mind is the Master – James Allen (Complete works)
 5. The Master Key System – Charles F. Haanel
 6. Psycho-Cybernetics – Maxwell Maltz
 7. The Science of Getting Rich – Wallace D. Wattles
@@ -20,3 +23,8 @@
 18. The One Thing – Gary Keller & Jay Papasan
 19. Mindset: The New Psychology of Success – Carol S. Dweck
 20. The Compound Effect – Darren Hardy
+21. Your Invisible Power – Genevieve Behrend
+22. Dynamic Thought – Henry Thomas Hamblin
+23. The Edinburgh Lectures on Mental Science – Thomas Troward
+24. In Tune with the Infinite – Ralph Waldo Trine
+25. The Law of Attraction – William Walker Atkinson
