@@ -1,4 +1,4 @@
-# Wealth Books List - IT NEEDS SORTING - COMING UP SOON
+# Wealth Books List
 
 A core collection of books to anchor ongoing discussions and projects on wealth creation, 
 personal growth, and financial success.
